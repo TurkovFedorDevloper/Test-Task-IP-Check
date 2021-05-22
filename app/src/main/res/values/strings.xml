@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IP Check</string>
+    <string name="ip_text">УЗНАЙ СВОЙ IP</string>
+    <string name="start_text">СТАРТ</string>
+    <string name="button_start">ButtonStart</string>
+    <string name="fill_ip">fill_ip</string>
+    <string name="your_ip">ВАШ IP</string>
+    <string name="open_yandex_text">Открыть Яндекс</string>
+</resources>
